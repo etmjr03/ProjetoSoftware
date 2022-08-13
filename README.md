@@ -2,6 +2,7 @@
 
 Aula sobre comando básicos do github
 Deploy no git pages: https://etmjr03.github.io/ProjetoSoftware/
+<br>
 Deploy na Vercel: https://projeto-software-etmjr03.vercel.app/
 
 <p align="left">Tecnologias utilizadas</p>
